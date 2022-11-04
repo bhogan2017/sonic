@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:41:19	2232/2232	---MCZ	200	added ('OK')	text/html	date:Fri,%2004%20Nov%202022%2002:41:20%20GMT	https://static.arcadespot.com/retroemulator.php?system=sega&game=2015/11/sonic3.gen	C:/My%20Web%20Sites/sonic3/static.arcadespot.com/retroemulator258d.html	(from )
+21:41:20	441/441	---MCZ	404	error ('Not%20Found')	text/html	date:Fri,%2004%20Nov%202022%2002:41:20%20GMT	https://static.arcadespot.com/robots.txt		(from )
